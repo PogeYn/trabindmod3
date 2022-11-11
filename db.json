@@ -1,0 +1,150 @@
+{
+  "musculacao": [
+      {
+          "id": 1,
+          "dias": "segunda a sábado",
+          "Treinos": [
+              {
+                  "id": 1,
+                  "listaDeTreinosCostas": [
+                      "Pulley Costas",
+                      "Barra Fixa No Graviton",
+                      "Peck Deck Inverso",
+                      "Puxada Pulley",
+                      "Remada Sentada",
+                      "Remada Cavalo"
+                  ]
+              },
+              {
+                  "id": 2,
+                  "listaDeTreinosPeito": [
+                      "Peck Deck Voador",
+                      "Supino Reto Com Barra",
+                      "Crucifixo No Cross Polia Alta",
+                      "Crucifixo No Cross Polia Baixa",
+                      "Supino Banco 45 Com Halter",
+                      "Crucifixo 45"
+                  ]
+              },
+              {
+                  "id": 3,
+                  "listaDeTreinosOmbro": [
+                      "Desenvolvimento Arnold",
+                      "Elevação Frontal Com Halter",
+                      "Desenvolvimento Articulado",
+                      "Abdução De Ombros Com HBC",
+                      "Remada Alta",
+                      "Crucifixo Posterior"
+                  ]
+              },
+              {
+                  "id": 4,
+                  "listaDeTreinosPeito": [
+                      "Leg 45",
+                      "Cadeira Extensora",
+                      "Cadeira Flexora",
+                      "Mesa Flexora",
+                      "Agachamento Total",
+                      "Agachamento No Smith"
+                  ]
+              },
+              {
+                  "id": 5,
+                  "listaDeTreinosTriceps": [
+                      "Paralela No Graviton",
+                      "Triceps Com Corda",
+                      "Triceps Coice No Cross",
+                      "Triceps Martelo",
+                      "Triceps Na Maquina",
+                      "Triceps Testa Na Polia"
+                  ]
+              },
+              {
+                  "id": 6,
+                  "listaDeTreinosBiceps": [
+                      "Cross Biceps Barra",
+                      "Rosca Biceps Direta Com Barra",
+                      "Rosca Biceps Direta Com Halteres",
+                      "Rosca Biceps No Cabo E Usando A Corda",
+                      "Banco Scott",
+                      "Rosca Biceps Concentrada Unilateral Com Halter"
+                  ]
+              }
+          ]
+      }
+  ],
+  "suplementos": [
+      {
+          "id": 1,
+          "listaDeSuplementos": [
+              {
+                  "id": 1,
+                  "marcasWhey": [
+                      "Gold Standard",
+                      "IntegralMedica",
+                      "Max Titanium",
+                      "Dux Nutrition",
+                      "Probiótica"
+                  ]
+              },
+              {
+                  "id": 2,
+                  "marcasCreatina": [
+                      "Creapure da Growth Supplements",
+                      "Creatauro",
+                      "Max Titanium",
+                      "Probiótica",
+                      "Universal Nutrition"
+                  ]
+              },
+              {
+                  "id": 3,
+                  "marcasGlutamina": [
+                      "Isofort Ultra",
+                      "Probiótica Powder",
+                      "Nutrify",
+                      "Max Titanium L-G",
+                      "Black Skull L-Glutamine"
+                  ]
+              },
+              {
+                  "id": 4,
+                  "marcasTermogênicos": [
+                      "Sanavita Thermo Energy",
+                      "Max Titanium 2 Hot",
+                      "Bio2 Nutraceutic Thermo",
+                      "Vitafor Termoplus",
+                      "Nutrex Lipo 6 Black"
+                  ]
+              }
+          ]
+      }
+  ],
+  "artesMarciais": [
+      {
+          "id": 1,
+          "listaDeArtesMarciais": [
+              {
+                  "id": 1,
+                  "arte": "Muay Thai",
+                  "dias": "Segunda-feira e Quarta-feira"
+              },
+              {
+                  "id": 2,
+                  "arte": "Jiu-Jitsu",
+                  "dias": "Terça-feira e Quinta-feira"
+              },
+              {
+                  "id": 3,
+                  "arte": "Karatê",
+                  "dias": "Terça-feira e Quinta-feira"
+              },
+              {
+                  "id": 4,
+                  "arte": "Taekwondo",
+                  "dias": "Sexta-feira e Sábado"
+                }
+          ]
+      }
+  ]
+}
